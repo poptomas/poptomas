@@ -1,6 +1,4 @@
-### 🎓 Software and Data Engineering at Charles University
-### 👩‍💻 Software Engineer at Cisco
-### 📌 Prague
+###
 
 <!--
 **poptomas/poptomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
