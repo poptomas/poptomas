@@ -1,14 +1,9 @@
 # Tomas Pop
 
-👩‍💻 Software Engineer | 📚 Pursuing Master's in Software and Data Engineering at Charles University | 🌍 Based in Czechia
+👨‍💻 Software Engineer | 🎓 Master's Student in Software & Data Engineering | 🌍 Based in Prague, currently on exchange in Basel
 
-## About Me
-
-- Software Engineer with a focus on Data Science
-- Currently pursuing a Master's degree in Software and Data Engineering at Charles University
-- Working at Cisco
-- Preferred Languages: Python, C#, C++
-- Based in Prague, Czechia
+About Me
+I'm a Software Engineer specializing in Data Science, currently pursuing my Master's in Software and Data Engineering at Charles University. I'm also participating in a study exchange at the University of Basel. Professionally, I work at Cisco, where I apply my skills in real-world projects.
 
 ## Skills
 
