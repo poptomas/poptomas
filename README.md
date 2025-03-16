@@ -2,7 +2,8 @@
 
 👨‍💻 Software Engineer | 🎓 Master's Student in Software & Data Engineering | 🌍 Based in Prague, currently on exchange in Basel
 
-## About Me
+## About Me
+
 I'm a Software Engineer specializing in Data Science, currently pursuing my Master's in Software and Data Engineering at Charles University. I'm also participating in a study exchange at the University of Basel. Professionally, I work at Cisco.
 
 <!-- [![poptomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=poptomas&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
