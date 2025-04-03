@@ -1,10 +1,10 @@
 # Tomas Pop
 
-👨‍💻 Software Engineer | 🎓 Master's Student in Software & Data Engineering | 🌍 Based in Prague, currently on exchange in Basel
+👨‍💻 Data Scientist | 🎓 Master's Student in Software & Data Engineering | 🌍 Based in Prague, currently on exchange in Basel
 
 ## About Me
 
-I'm a Software Engineer specializing in Data Science, currently pursuing my Master's in Software and Data Engineering at Charles University. I'm also participating in a study exchange at the University of Basel. Professionally, I work at Cisco.
+I'm a Data Scientist, currently pursuing my Master's in Software and Data Engineering at Charles University. I'm also participating in a study exchange at the University of Basel. Professionally, I work at Cisco.
 
 Currently, I'm working on my Master's thesis titled "Phishing Detection Using Knowledge Distilled from Large Language Models", focusing on fine-tuning large language models for email phishing detection.
 
