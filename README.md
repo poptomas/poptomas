@@ -9,10 +9,10 @@ I'm a Data Scientist, currently pursuing my Master's in Software and Data Engine
 Currently, I'm working on my Master's thesis titled "Phishing Detection Using Knowledge Distilled from Large Language Models", focusing on fine-tuning large language models for email phishing detection.
 
 ## The stuff I have been in contact with:
-Preferred Languages: Python, C#, C++, (Java)
-Frameworks & Libraries: .NET, PyTorch, Transformers
-Cloud Technologies: Microsoft Azure, AWS
-Areas of Expertise: Data analysis, machine learning, natural language processing, backend development, (work in progress) fine-tuning LLMs
+- Preferred Languages: Python, C#, C++, (Java)
+- Frameworks & Libraries: .NET, PyTorch, Transformers
+- Cloud Technologies: Microsoft Azure, AWS
+- Areas of Expertise: Data analysis, machine learning, natural language processing, backend development, (work in progress) fine-tuning LLMs
 
 <!-- [![poptomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=poptomas&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
