@@ -1,29 +1,54 @@
 # Tomas Pop
 
-Data Scientist | Master's Student in Software & Data Engineering | Prague → Basel
+Data Scientist | AI/ML Engineer | Master's Student in Software and Data Engineering
 
 ## About Me
 
-Hi, I'm Tomas, a Data Scientist currently pursuing my Master's in Software and Data Engineering at Charles University. I am also completing a study exchange at the University of Basel.
+I am a Data Scientist and AI/ML Engineer with a strong focus on machine learning, natural language processing (NLP), and cybersecurity.  
+Currently pursuing my Master's in Software and Data Engineering at Charles University, with an exchange program at the University of Basel.
 
-Professionally, I work at Cisco, applying data science, machine learning, and software engineering skills to real-world challenges.
+At Cisco, I have contributed to developing phishing detection systems capable of processing 400 million emails weekly and detecting over 550,000 phishing attempts per week. My work emphasizes building scalable, efficient AI solutions with real-world business impact.
 
-My current academic focus is my Master's thesis, titled "Phishing Detection Using Knowledge Distilled from Large Language Models," where I fine-tune large language models for phishing email detection.
+My Master's thesis focuses on fine-tuning large language models (LLMs) for phishing detection, optimizing models for efficiency and real-world deployment.
 
-## Tech Stack
+## Areas of Expertise
 
-- **Languages:** Python, C#, C++, (Java)
-- **Frameworks and Libraries:** .NET, PyTorch, Hugging Face Transformers
-- **Cloud Platforms:** Microsoft Azure, AWS
-- **Areas of Expertise:** Data Analysis, Machine Learning, Natural Language Processing, Backend Development, Fine-tuning LLMs (in progress)
+- Machine Learning Engineering
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs) Fine-tuning and Distillation
+- Phishing Detection Systems
+- AI Scalability and Optimization
+- Cloud-Based ML Workflows (AWS, Azure)
 
-## Currently
+## Selected Projects
 
-- Deepening expertise in fine-tuning large language models
-- Exploring multi-cloud architectures
-- Writing and preparing my Master's thesis for publication
+- **Automated Text-Based Detector Development Pipeline (2024–2025)**  
+  Built a rapid prototyping pipeline for text classifiers with GPT-assisted dataset creation; deployed in a production environment handling 550k+ phishing attempts weekly.  
+  *Technologies:* Transformers, spaCy, ONNX
 
-## GitHub Stats
+- **Email Clustering and Visualization Web App (2023–2024)**  
+  Developed an interactive tool for analyzing the Enron email dataset, integrating Python (Flask, Bokeh) with React frontend for dynamic exploration.
+
+## Technical Skills
+
+- **Programming:** Python, C#, C++, Java, JavaScript
+- **ML/AI:** PyTorch, Hugging Face Transformers, ONNX, spaCy
+- **Databases:** SQL, NoSQL
+- **Cloud and Big Data:** AWS, Azure, Spark, Hadoop
+- **Tools and Frameworks:** Flask, React, MLflow, Git, Docker
+
+## Publications
+
+- [A Modular and Adaptive System for Business Email Compromise Detection](https://arxiv.org/abs/2308.10776) (arXiv, 2023)
+
+## Current Focus
+
+- Fine-tuning and deploying efficient LLMs for cybersecurity applications
+- Research on model distillation and compression for production deployment
+- Building scalable end-to-end AI pipelines on cloud infrastructure
+
+<!--## GitHub Stats
+-->
 
 <!--
 [![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=poptomas&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
@@ -31,5 +56,6 @@ My current academic focus is my Master's thesis, titled "Phishing Detection Usin
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/pop-tomas) <!-- Replace with your LinkedIn URL -->
+- [LinkedIn](https://www.linkedin.com/in/tomas-pop) <!-- Corrected from CV -->
+- [GitHub](https://github.com/poptomas)
 
