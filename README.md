@@ -25,9 +25,8 @@ My current academic focus is my Master's thesis, titled "Phishing Detection Usin
 
 ## GitHub Stats
 
-<!--
+
 [![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=poptomas&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 ## Contact
 
