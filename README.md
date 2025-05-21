@@ -11,42 +11,6 @@ At Cisco, I have contributed to developing phishing detection systems capable of
 
 My Master's thesis focuses on fine-tuning large language models (LLMs) for phishing detection, optimizing models for efficiency and real-world deployment.
 
-## Areas of Expertise
-
-- Machine Learning Engineering
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs) Fine-tuning and Distillation
-- Phishing Detection Systems
-- AI Scalability and Optimization
-- Cloud-Based ML Workflows (AWS, Azure)
-
-## Selected Projects
-
-- **Automated Text-Based Detector Development Pipeline (2024–2025)**  
-  Built a rapid prototyping pipeline for text classifiers with GPT-assisted dataset creation; deployed in a production environment handling 550k+ phishing attempts weekly.  
-  *Technologies:* Transformers, spaCy, ONNX
-
-- **Email Clustering and Visualization Web App (2023–2024)**  
-  Developed an interactive tool for analyzing the Enron email dataset, integrating Python (Flask, Bokeh) with React frontend for dynamic exploration.
-
-## Technical Skills
-
-- **Programming:** Python, C#, C++, Java, JavaScript
-- **ML/AI:** PyTorch, Hugging Face Transformers, ONNX, spaCy
-- **Databases:** SQL, NoSQL
-- **Cloud and Big Data:** AWS, Azure, Spark, Hadoop
-- **Tools and Frameworks:** Flask, React, MLflow, Git, Docker
-
-## Publications
-
-- [A Modular and Adaptive System for Business Email Compromise Detection](https://arxiv.org/abs/2308.10776) (arXiv, 2023)
-
-## Current Focus
-
-- Fine-tuning and deploying efficient LLMs for cybersecurity applications
-- Research on model distillation and compression for production deployment
-- Building scalable end-to-end AI pipelines on cloud infrastructure
-
 <!--## GitHub Stats
 -->
 
