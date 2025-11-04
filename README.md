@@ -12,13 +12,13 @@ Passionate about **efficient ML pipelines**, **deployment**, and **GPU accelerat
 
 ---
 
-### 🧩 Tech Stack  
+### Tech Stack  
 `Python` · `PyTorch` · `Transformers` · `Hugging Face` · `ONNX` · `TensorRT`  
 `Spark` · `AWS` · `Docker` · `Flask` · `React`
 
 ---
 
-### 📬 Connect  
+### Connect  
 [LinkedIn](https://www.linkedin.com/in/tomas-pop) · [GitHub](https://github.com/poptomas) · [Email](mailto:pop.tomas@outlook.com)
 
 ---
