@@ -1,14 +1,14 @@
 # Tomas Pop  
 
 **Machine Learning Engineer | MSc. in Software & Data Engineering**  
-Prague, Czech Republic 🇨🇿  
+Prague, Czechia  
 
 ---
 
-🎓 **MSc student** at *Charles University* (exchange at *University of Basel*)  
-💼 **Machine Learning Engineer @ Cisco Systems**  
-🧠 Focused on **LLMs, NLP, and model optimization for real-time phishing detection**  
-⚙️ Passionate about **efficient ML pipelines**, **deployment**, and **GPU acceleration**
+**MSc student** at *Charles University* (exchange at *University of Basel*)  
+**Machine Learning Engineer @ Cisco Systems**  
+Focused on **LLMs, NLP, and model optimization for real-time phishing detection**  
+Passionate about **efficient ML pipelines**, **deployment**, and **GPU acceleration**
 
 ---
 
