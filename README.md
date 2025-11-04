@@ -1,23 +1,27 @@
-# Tomas Pop
+# Tomas Pop  
 
-Data Scientist | Master's Student in Software and Data Engineering
+**Machine Learning Engineer | MSc. in Software & Data Engineering**  
+Prague, Czech Republic 🇨🇿  
 
-## About Me
+---
 
-I am a Data Scientist with a strong focus on machine learning, and NLP.  
-Currently pursuing my Master's in Software and Data Engineering at Charles University, with an exchange program at the University of Basel.
+🎓 **MSc student** at *Charles University* (exchange at *University of Basel*)  
+💼 **Machine Learning Engineer @ Cisco Systems**  
+🧠 Focused on **LLMs, NLP, and model optimization for real-time phishing detection**  
+⚙️ Passionate about **efficient ML pipelines**, **deployment**, and **GPU acceleration**
 
-My Master's thesis focuses on fine-tuning large language models (LLMs) for phishing detection, optimizing models for efficiency and real-world deployment.
+---
 
-<!--## GitHub Stats
--->
+### 🧩 Tech Stack  
+`Python` · `PyTorch` · `Transformers` · `Hugging Face` · `ONNX` · `TensorRT`  
+`Spark` · `AWS` · `Docker` · `Flask` · `React`
 
-<!--
-[![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=poptomas&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
--->
+---
 
-## Contact
+### 📬 Connect  
+[LinkedIn](https://www.linkedin.com/in/tomas-pop) · [GitHub](https://github.com/poptomas) · [Email](mailto:pop.tomas@outlook.com)
 
-- [LinkedIn](https://www.linkedin.com/in/tomas-pop) <!-- Corrected from CV -->
-- [GitHub](https://github.com/poptomas)
+---
 
+<!-- Optional GitHub stats (simple, clean) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poptomas&layout=compact&theme=default&hide_border=true)
