@@ -5,7 +5,7 @@ Prague, Czechia
 
 ---
 
-**MSc student** at *Charles University* (exchange at *University of Basel*)  
+**MSc graduate** at *Charles University* (exchange at *University of Basel*)  
 **Machine Learning Engineer @ Cisco Systems**  
 Focused on **LLMs, NLP, and model optimization for real-time phishing detection**  
 Passionate about **efficient ML pipelines**, **deployment**, and **GPU acceleration**
@@ -22,6 +22,3 @@ Passionate about **efficient ML pipelines**, **deployment**, and **GPU accelerat
 [LinkedIn](https://www.linkedin.com/in/tomas-pop) · [GitHub](https://github.com/poptomas) · [Email](mailto:pop.tomas@outlook.com)
 
 ---
-
-<!-- Optional GitHub stats (simple, clean) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poptomas&layout=compact&theme=default&hide_border=true)
