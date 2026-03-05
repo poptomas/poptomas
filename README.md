@@ -31,7 +31,7 @@
 ### Stuff I have built
 * **[Phishing Detection](https://github.com/poptomas/kd-llm-stream)** – My MSc Thesis. Distilling LLMs because GPUs are expensive and LLMs are not fast enough without modifications for streaming data.
 * **[Swiss Rail Visualizer](https://github.com/poptomas/real-time-swiss-rail-spark)** – Tracking 2,500+ Swiss train connections in real-time.
-* **[ToTheMoon](https://github.com/poptomas/ToTheMoon)** – A C++ cryptocurrency trading bot (with [C# binding](https://github.com/poptomas/SharpAlgorithmicTrading) as well). It won't make you a millionaire, but the code is quite fast.
+* **[ToTheMoon](https://github.com/poptomas/ToTheMoon)** – A cryptocurrency trading bot (with [C# binding](https://github.com/poptomas/SharpAlgorithmicTrading) as well).
 
 ---
 
